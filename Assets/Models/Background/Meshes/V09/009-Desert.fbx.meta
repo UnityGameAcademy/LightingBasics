@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: 77ca188a004f6bc4c9bb7cd9e9eb1896
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Connect_BigRound
+    100004: Displacer_1
+    100006: Dunes
+    100008: LowResproxy
+    100010: Null
+    100012: Sand
+    100014: Sand_2
+    100016: SandHolder
+    100018: Source
+    100020: Subdivision_Surface_1
+    100022: LowResproxy_Dynamic
+    100024: Displacer
+    100026: Round
+    100028: Sand_PreTes_Quad
+    100030: Sand_PreTes_Quad_2
+    100032: Sand_PreTes_Quad_2_MeshPart0
+    100034: Sand_PreTes_Quad_2_MeshPart1
+    100036: Sand_PreTes_Quad_2_MeshPart2
+    100038: Sand_PreTes_Quad_2_MeshPart3
+    100040: SandHolder_2
+    100042: Sand_PreTes_Quad_1
+    100044: Sand_PreTes_Quad_1_2
+    100046: Sand_PreTes_Quad_1_2_MeshPart0
+    100048: Sand_PreTes_Quad_1_2_MeshPart1
+    100050: Sand_PreTes_Quad_2_2
+    100052: Sand_PreTes_Quad_2_2_MeshPart0
+    100054: Sand_PreTes_Quad_2_2_MeshPart1
+    100056: Sand_PreTes_Quad_3
+    100058: Sand_PreTes_Quad_3_2
+    100060: Sand_PreTes_Quad_3_2_MeshPart0
+    100062: Sand_PreTes_Quad_3_2_MeshPart1
+    100064: Sand_PreTes_Quad_1b
+    100066: Sand_PreTes_Quad_1b_2
+    100068: Sand_PreTes_Quad_2b
+    100070: Sand_PreTes_Quad_2b_2
+    100072: Sand_PreTes_Quad_3b
+    100074: Sand_PreTes_Quad_3b_2
+    100076: Sand_PreTes_Quad_1a
+    100078: Sand_PreTes_Quad_1a_2
+    400000: //RootNode
+    400002: Connect_BigRound
+    400004: Displacer_1
+    400006: Dunes
+    400008: LowResproxy
+    400010: Null
+    400012: Sand
+    400014: Sand_2
+    400016: SandHolder
+    400018: Source
+    400020: Subdivision_Surface_1
+    400022: LowResproxy_Dynamic
+    400024: Displacer
+    400026: Round
+    400028: Sand_PreTes_Quad
+    400030: Sand_PreTes_Quad_2
+    400032: Sand_PreTes_Quad_2_MeshPart0
+    400034: Sand_PreTes_Quad_2_MeshPart1
+    400036: Sand_PreTes_Quad_2_MeshPart2
+    400038: Sand_PreTes_Quad_2_MeshPart3
+    400040: SandHolder_2
+    400042: Sand_PreTes_Quad_1
+    400044: Sand_PreTes_Quad_1_2
+    400046: Sand_PreTes_Quad_1_2_MeshPart0
+    400048: Sand_PreTes_Quad_1_2_MeshPart1
+    400050: Sand_PreTes_Quad_2_2
+    400052: Sand_PreTes_Quad_2_2_MeshPart0
+    400054: Sand_PreTes_Quad_2_2_MeshPart1
+    400056: Sand_PreTes_Quad_3
+    400058: Sand_PreTes_Quad_3_2
+    400060: Sand_PreTes_Quad_3_2_MeshPart0
+    400062: Sand_PreTes_Quad_3_2_MeshPart1
+    400064: Sand_PreTes_Quad_1b
+    400066: Sand_PreTes_Quad_1b_2
+    400068: Sand_PreTes_Quad_2b
+    400070: Sand_PreTes_Quad_2b_2
+    400072: Sand_PreTes_Quad_3b
+    400074: Sand_PreTes_Quad_3b_2
+    400076: Sand_PreTes_Quad_1a
+    400078: Sand_PreTes_Quad_1a_2
+    2300000: Null
+    2300002: Sand_2
+    2300004: Sand_PreTes_Quad_2_MeshPart0
+    2300006: Sand_PreTes_Quad_2_MeshPart1
+    2300008: Sand_PreTes_Quad_2_MeshPart2
+    2300010: Sand_PreTes_Quad_2_MeshPart3
+    2300012: Sand_PreTes_Quad_1_2_MeshPart0
+    2300014: Sand_PreTes_Quad_1_2_MeshPart1
+    2300016: Sand_PreTes_Quad_2_2_MeshPart0
+    2300018: Sand_PreTes_Quad_2_2_MeshPart1
+    2300020: Sand_PreTes_Quad_3_2_MeshPart0
+    2300022: Sand_PreTes_Quad_3_2_MeshPart1
+    2300024: Sand_PreTes_Quad_1_2
+    2300026: Sand_PreTes_Quad_1b_2
+    2300028: Sand_PreTes_Quad_2_2
+    2300030: Sand_PreTes_Quad_2b_2
+    2300032: Sand_PreTes_Quad_3_2
+    2300034: Sand_PreTes_Quad_3b_2
+    2300036: Sand_PreTes_Quad_1a_2
+    3300000: Null
+    3300002: Sand_2
+    3300004: Sand_PreTes_Quad_2_MeshPart0
+    3300006: Sand_PreTes_Quad_2_MeshPart1
+    3300008: Sand_PreTes_Quad_2_MeshPart2
+    3300010: Sand_PreTes_Quad_2_MeshPart3
+    3300012: Sand_PreTes_Quad_1_2_MeshPart0
+    3300014: Sand_PreTes_Quad_1_2_MeshPart1
+    3300016: Sand_PreTes_Quad_2_2_MeshPart0
+    3300018: Sand_PreTes_Quad_2_2_MeshPart1
+    3300020: Sand_PreTes_Quad_3_2_MeshPart0
+    3300022: Sand_PreTes_Quad_3_2_MeshPart1
+    3300024: Sand_PreTes_Quad_1_2
+    3300026: Sand_PreTes_Quad_1b_2
+    3300028: Sand_PreTes_Quad_2_2
+    3300030: Sand_PreTes_Quad_2b_2
+    3300032: Sand_PreTes_Quad_3_2
+    3300034: Sand_PreTes_Quad_3b_2
+    3300036: Sand_PreTes_Quad_1a_2
+    4300000: Sand_2
+    4300002: Null
+    4300004: Sand_PreTes_Quad_2_MeshPart0
+    4300006: Sand_PreTes_Quad_2_MeshPart1
+    4300008: Sand_PreTes_Quad_2_MeshPart2
+    4300010: Sand_PreTes_Quad_2_MeshPart3
+    4300012: Sand_PreTes_Quad_1_2_MeshPart0
+    4300014: Sand_PreTes_Quad_1_2_MeshPart1
+    4300016: Sand_PreTes_Quad_2_2_MeshPart0
+    4300018: Sand_PreTes_Quad_2_2_MeshPart1
+    4300020: Sand_PreTes_Quad_3_2_MeshPart0
+    4300022: Sand_PreTes_Quad_3_2_MeshPart1
+    4300024: Sand_PreTes_Quad_1b_2
+    4300026: Sand_PreTes_Quad_2_2
+    4300028: Sand_PreTes_Quad_2b_2
+    4300030: Sand_PreTes_Quad_3_2
+    4300032: Sand_PreTes_Quad_3b_2
+    4300034: Sand_PreTes_Quad_1a_2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sand
+    second: {fileID: 2100000, guid: 1d7efd4b44c2b03468b73e57d147f610, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sand.1
+    second: {fileID: 2100000, guid: cfe34431bb513f540a95d5fd074cb7f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sand.2
+    second: {fileID: 2100000, guid: 89d19a60993874c49a991028595deaa2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sand.3
+    second: {fileID: 2100000, guid: 437ccd07ba6d2b14285cba1068e5cdf8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sand.4
+    second: {fileID: 2100000, guid: 3a1ae5dac7771b54e8bee10b3e975165, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sand.5
+    second: {fileID: 2100000, guid: 22f7bc43a3a48d34696cb9a087887a1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sand.6
+    second: {fileID: 2100000, guid: 107d91bccd331ee46b81de6f1d18847c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sand.7
+    second: {fileID: 2100000, guid: 0636ee1e61181724db84b13e29b4377e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

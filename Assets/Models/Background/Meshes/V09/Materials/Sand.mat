@@ -1,0 +1,243 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Sand
+  m_Shader: {fileID: 4800000, guid: f4c8113f1894c5147b7c6241064e6e03, type: 3}
+  m_ShaderKeywords: _DETAIL_MULX2 _NORMALMAP
+  m_LightmapFlags: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 22, y: 22}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DetailNormalMap
+        second:
+          m_Texture: {fileID: 2800000, guid: 323c280b84f3c134497dcf610442aed1, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _ParallaxMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _OcclusionMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _EmissionMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 22, y: 22}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DetailMask
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DetailAlbedoMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 22, y: 22}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _MetallicGlossMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _SpecGlossMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Normal
+        second:
+          m_Texture: {fileID: 2800000, guid: 323c280b84f3c134497dcf610442aed1, type: 3}
+          m_Scale: {x: 22, y: 22}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _NormalMask
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _SrcBlend
+        second: 1
+      data:
+        first:
+          name: _DstBlend
+        second: 0
+      data:
+        first:
+          name: _Cutoff
+        second: .5
+      data:
+        first:
+          name: _Parallax
+        second: .0199999996
+      data:
+        first:
+          name: _ZWrite
+        second: 1
+      data:
+        first:
+          name: _Glossiness
+        second: 0
+      data:
+        first:
+          name: _BumpScale
+        second: .400000006
+      data:
+        first:
+          name: _OcclusionStrength
+        second: 1
+      data:
+        first:
+          name: _DetailNormalMapScale
+        second: .519999981
+      data:
+        first:
+          name: _UVSec
+        second: 0
+      data:
+        first:
+          name: _Mode
+        second: 0
+      data:
+        first:
+          name: _Metallic
+        second: 0
+      data:
+        first:
+          name: _Gloss
+        second: 0
+      data:
+        first:
+          name: _FresnelExp
+        second: 3.08999991
+      data:
+        first:
+          name: _FresnelMultiply
+        second: .100000001
+      data:
+        first:
+          name: _NormalStrength
+        second: -1
+      data:
+        first:
+          name: _FresnelToDiffuse
+        second: .920000017
+      data:
+        first:
+          name: _FresnelToEmissive
+        second: 0
+      data:
+        first:
+          name: _LightWrap
+        second: .5
+      data:
+        first:
+          name: _NormalFresnelFade
+        second: 0
+      data:
+        first:
+          name: _NormalSlopeFadeMult
+        second: .885999978
+      data:
+        first:
+          name: _NormalSlopeFadeOffset
+        second: -.910000026
+      data:
+        first:
+          name: _node_3104
+        second: 1
+      data:
+        first:
+          name: _node_3104_copy
+        second: 1
+      data:
+        first:
+          name: _node_2170
+        second: 0
+      data:
+        first:
+          name: _node_7544
+        second: 1
+      data:
+        first:
+          name: _NormalFade
+        second: .5
+      data:
+        first:
+          name: _NormalSlopeFade
+        second: 1
+    m_Colors:
+      data:
+        first:
+          name: _EmissionColor
+        second: {r: 0, g: 0, b: 0, a: 1}
+      data:
+        first:
+          name: _Color
+        second: {r: .860294104, g: .681258321, b: .518706739, a: 1}
+      data:
+        first:
+          name: _SpecColor
+        second: {r: .200000003, g: .200000003, b: .200000003, a: 1}
+      data:
+        first:
+          name: _FresnelColor
+        second: {r: .933823526, g: .824436545, b: .707234025, a: 1}
+      data:
+        first:
+          name: _Spec
+        second: {r: 0, g: 0, b: 0, a: 1}
+      data:
+        first:
+          name: _node_8788
+        second: {r: .897060394, g: .710554481, b: .626626849, a: 1}
+      data:
+        first:
+          name: _node_1829
+        second: {r: .498039186, g: .498039186, b: 1, a: 1}

@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: de8e2ff41a8ff424abff785f2342690a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cannon.L
+    100002: Cannon.R
+    100004: Suspension_F.L
+    100006: Suspension_F.R
+    100008: Suspension_M.L
+    100010: Suspension_M.R
+    100012: Suspension_R.L
+    100014: Suspension_R.R
+    100016: //RootNode
+    100018: Vehicle_1
+    100020: Vehicle_1_Cabin
+    100022: Wheel_F.L
+    100024: Wheel_F.R
+    100026: Wheel_M.L
+    100028: Wheel_M.R
+    100030: Wheel_Pivot_F.L
+    100032: Wheel_Pivot_F.R
+    100034: Wheel_R.L
+    100036: Wheel_R.R
+    400000: Cannon.L
+    400002: Cannon.R
+    400004: Suspension_F.L
+    400006: Suspension_F.R
+    400008: Suspension_M.L
+    400010: Suspension_M.R
+    400012: Suspension_R.L
+    400014: Suspension_R.R
+    400016: //RootNode
+    400018: Vehicle_1
+    400020: Vehicle_1_Cabin
+    400022: Wheel_F.L
+    400024: Wheel_F.R
+    400026: Wheel_M.L
+    400028: Wheel_M.R
+    400030: Wheel_Pivot_F.L
+    400032: Wheel_Pivot_F.R
+    400034: Wheel_R.L
+    400036: Wheel_R.R
+    2300000: Cannon.L
+    2300002: Cannon.R
+    2300004: Suspension_F.L
+    2300006: Suspension_F.R
+    2300008: Suspension_M.L
+    2300010: Suspension_M.R
+    2300012: Suspension_R.L
+    2300014: Suspension_R.R
+    2300016: Vehicle_1
+    2300018: Vehicle_1_Cabin
+    2300020: Wheel_F.L
+    2300022: Wheel_F.R
+    2300024: Wheel_M.L
+    2300026: Wheel_M.R
+    2300028: Wheel_R.L
+    2300030: Wheel_R.R
+    3300000: Cannon.L
+    3300002: Cannon.R
+    3300004: Suspension_F.L
+    3300006: Suspension_F.R
+    3300008: Suspension_M.L
+    3300010: Suspension_M.R
+    3300012: Suspension_R.L
+    3300014: Suspension_R.R
+    3300016: Vehicle_1
+    3300018: Vehicle_1_Cabin
+    3300020: Wheel_F.L
+    3300022: Wheel_F.R
+    3300024: Wheel_M.L
+    3300026: Wheel_M.R
+    3300028: Wheel_R.L
+    3300030: Wheel_R.R
+    4300000: Vehicle_1_Cabin
+    4300002: Cannon.R
+    4300004: Cannon.L
+    4300006: Suspension_F.R
+    4300008: Wheel_F.R
+    4300010: Suspension_F.L
+    4300012: Wheel_F.L
+    4300014: Vehicle_1
+    4300016: Suspension_R.R
+    4300018: Wheel_R.R
+    4300020: Suspension_R.L
+    4300022: Wheel_R.L
+    4300024: Suspension_M.L
+    4300026: Wheel_M.L
+    4300028: Suspension_M.R
+    4300030: Wheel_M.R
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cannon_1_D
+    second: {fileID: 2100000, guid: 09acc8aa0895cc647b4c403043313175, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vehicle_1_D
+    second: {fileID: 2100000, guid: 6f18d617d16bfd340a72aa6a00a147e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wheels_1_D
+    second: {fileID: 2100000, guid: a9f4db442e5daed4f844c97fb8feddff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wheels_2_D
+    second: {fileID: 2100000, guid: ef4b06217c59dab4c85461fa0dbb175e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 8
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
